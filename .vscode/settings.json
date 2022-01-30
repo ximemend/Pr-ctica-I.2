@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\bubul\\OneDrive\\Documentos\\IDGS101N\\Desarrollo móvil integral\\Prácticas\\mysql-connector-java-8.0.28.jar"
+    ]
+}
